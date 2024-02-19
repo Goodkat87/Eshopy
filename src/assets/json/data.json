@@ -1,0 +1,62 @@
+[
+    {
+        "name" : "MUSC ABU DHABI",
+        "price" : "€26.99",
+        "stock" : 3
+    },
+    {
+        "name" : "MUSC ANASS",
+        "price" : "€26.99",
+        "stock" : 5
+    },
+    {
+        "name" : "MUSC BELLA",
+        "price" : "€26.99",
+        "stock" : 8
+    },
+    {
+        "name" : "MUSC HALIMA",
+        "price" : "€26.99",
+        "stock" : 4
+    },
+    {
+        "name" : "MUSC IMRAN",
+        "price" : "€26.99",
+        "stock" : 5
+    },
+    {
+        "name" : "MUSC LOVE",
+        "price" : "€26.99",
+        "stock" : 7
+    },
+    {
+        "name" : "MUSC MAKKAH",
+        "price" : "€26.99",
+        "stock" : 5
+    },
+    {
+        "name" : "MUSC ROYAL GOLD",
+        "price" : "€26.99",
+        "stock" : 8
+    },
+    {
+        "name" : "MUSC VELVET",
+        "price" : "€26.99",
+        "stock" : 5
+    },
+    {
+        "name" : "MUSC BLANC",
+        "price" : "€26.99",
+        "stock" : 9
+    },
+    {
+        "name" : "MUSC SAUVAGE",
+        "price" : "€26.99",
+        "stock" : 3
+    },
+    {
+        "name" : "MUSC OUD",
+        "price" : "€26.99",
+        "stock" : 4
+    }
+]
