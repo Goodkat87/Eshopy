@@ -11,7 +11,13 @@ function App() {
 
   return (
     <div className='w-full h-screen flex flex-col items-center'>
-
+      <div className='w-10/12 h-max flex flex-wrap justify-center gap-1'>
+      {data.map(function(item) {
+        return (
+          <Card item={item}></Card>
+        )
+      })}
+      </div>
     </div>
   )
 }
